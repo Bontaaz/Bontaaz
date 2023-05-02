@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]()
 
 <h1 align="center">Hi 👋, I'm Sean CAPPE</h1>
-<h3 align="center">A passionate Infrastructure Architect from France</h3>
+<h3 align="center">A passionate Infrastructure Administrator from France</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Cara a Cara](https://github.com/Bontaaz/Cara-a-Cara)
