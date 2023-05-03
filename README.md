@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A passionate Infrastructure Administrator from France</h3>
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🔭 I’m currently working on **Windows Server**
 
